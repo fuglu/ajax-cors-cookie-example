@@ -20,6 +20,6 @@ Now launch the servers:
 
 Let the magic happen
 --------------------
-Open ```www.domain-a.com:4000``` in your browser.
+Open [www.domain-a.com:4000](http://www.domain-a.com:4000).
 
 :tada: We have a ```www.domain-b.com``` :cookie:.

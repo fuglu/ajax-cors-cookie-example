@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>serverA</title>
+	</head>
+	<body>
+		<script type="text/javascript" charset="utf-8">
+			var xhr = new XMLHttpRequest();
+			xhr.withCredentials = true;
+			xhr.open('GET', 'http://www.domain-b.com:4001');
+			xhr.send(null);
+		</script>
+	</body>
+</html>
